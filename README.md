@@ -1,4 +1,4 @@
-Flashcards App 📚
+Flashcards App 📚 </br>
 A multi-page flashcard application that allows users to create, edit, manage, and quiz themselves on custom flashcard decks! This app combines seamless navigation, responsive design, and persistent storage to deliver an intuitive study tool. Built as part of CS 442 coursework, it offers hands-on experience with navigation, state management, and local persistence techniques.
 
 
