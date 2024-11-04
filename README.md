@@ -3,25 +3,25 @@ A multi-page flashcard application that allows users to create, edit, manage, an
 
 
 🌟 Features
-Deck Management
-
+. Deck Management
 Create, edit, and delete flashcard decks.
-Load a starter set of decks from JSON to quickly populate content.
-Flashcard Management
+Load a starter set of decks from a JSON file for quick setup.
 
-Add, edit, delete, and sort flashcards within a specific deck.
+. Flashcard Management
+Add, edit, delete, and sort flashcards within specific decks.
 Sort cards alphabetically or by creation date.
-Quizzes
 
-Run quizzes from a selected deck with shuffling and “peek” features to review answers.
-Track progress with indicators showing the number of questions answered and total cards viewed.
-Responsive Design
+. Quizzes
+Run quizzes from selected decks, with options to shuffle and “peek” at answers.
+Track progress with indicators for questions answered and total cards viewed.
 
-Automatically adjusts to different screen sizes.
-Compact layouts for mobile and merged views for larger screens.
-Data Persistence
+. Responsive Design
+Adjusts layout based on screen size.
+Compact view for mobile and combined views for larger screens.
 
-Uses SQLite to save decks and cards locally, preserving data between sessions.
+.Data Persistence
+Saves decks and flashcards locally using SQLite, preserving data between sessions.
+
 
 💻 Tech Stack
 
