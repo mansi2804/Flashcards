@@ -4,7 +4,7 @@ import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'views/decklist.dart';
-
+ 
 Future<void> loadJSONData(DBHelper dbHelper) async {
   final jsonContent = await rootBundle.loadString('assets/flashcards.json');
   final List<dynamic> jsonList = jsonDecode(jsonContent);
