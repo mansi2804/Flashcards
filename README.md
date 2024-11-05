@@ -3,7 +3,7 @@ A multi-page flashcard application that allows users to create, edit, manage, an
 
 
 🌟 Features  </br>
- **** Deck Management </br>
+ **** Deck Management </br> 
 Create, edit, and delete flashcard decks.
 Load a starter set of decks from a JSON file for quick setup.
 
