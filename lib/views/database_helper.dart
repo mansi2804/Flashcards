@@ -3,7 +3,7 @@ import 'decklist.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path_provider/path_provider.dart';
 
-
+ 
 class DBHelper {
   static const String _databaseName = 'flashcards.db';
   static const int _databaseVersion = 1;
