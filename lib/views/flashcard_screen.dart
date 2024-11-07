@@ -4,7 +4,7 @@ import 'flashedit.dart';
 import 'database_helper.dart';
 import 'dart:math';
 import 'decklist.dart';
-
+ 
 class FlashcardScrn extends StatefulWidget {
   final Deck deck;
 
