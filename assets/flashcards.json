@@ -4,7 +4,7 @@
         "flashcards": 
         [
             { "question": "A", "answer": "Alpha"    }, 
-            { "question": "B", "answer": "Bravo"    },
+            { "question": "B", "answer": "Bravo"    }, 
             { "question": "C", "answer": "Charlie"  },
             { "question": "D", "answer": "Delta"    },
             { "question": "E", "answer": "Echo"     },
