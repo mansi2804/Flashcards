@@ -2,7 +2,7 @@ name: cs442_mp4
 description: Flashcards
 publish_to: 'none'
 version: 0.1.0
-
+ 
 environment:
   sdk: '^3.5.0'
 
