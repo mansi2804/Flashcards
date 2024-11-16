@@ -3,7 +3,7 @@
 ## Team
 
 - Name: Mansi Patil
-- AID: A20549858
+
 
 ## Self-Evaluation Checklist
 
