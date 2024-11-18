@@ -38,7 +38,7 @@ SQLite: No additional installation required as the app uses the sqflite package.
 Installation: </br>
 Clone this repository </br>
 
-git clone https://github.com/your-username/flashcards-app.git </br>
+git clone https://github.com/your-username/flashcards-app.git </br> 
 
 cd flashcards-app </br>
 
