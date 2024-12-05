@@ -13,7 +13,7 @@ Sort cards alphabetically or by creation date.
 
 **** Quizzes </br>
 Run quizzes from selected decks, with options to shuffle and “peek” at answers.
-Track progress with indicators for questions answered and total cards viewed.
+Track progress with indicators for questions answered and total cards viewed. 
 
 **** Responsive Design </br>
 Adjusts layout based on screen size.
