@@ -9,7 +9,7 @@ Load a starter set of decks from a JSON file for quick setup.
 
  ****Flashcard Management </br>
 Add, edit, delete, and sort flashcards within specific decks.
-Sort cards alphabetically or by creation date.
+Sort cards alphabetically or by creation date. 
 
 **** Quizzes </br>
 Run quizzes from selected decks, with options to shuffle and “peek” at answers.
