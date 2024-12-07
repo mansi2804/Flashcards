@@ -8,7 +8,7 @@ Create, edit, and delete flashcard decks.
 Load a starter set of decks from a JSON file for quick setup.
 
  ****Flashcard Management </br>
-Add, edit, delete, and sort flashcards within specific decks.
+Add, edit, delete, and sort flashcards within specific decks. 
 Sort cards alphabetically or by creation date. 
 
 **** Quizzes </br>
